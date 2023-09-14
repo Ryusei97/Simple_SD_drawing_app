@@ -3,4 +3,4 @@ This app is a simple drawing and image generation application built with Tkinter
 
 Install the necessary packages and run `main.py` to test the image generation. The model parameters can be adjusted by editing the code directly.
 
-![Image generation example](https://github.com/Ryusei97/Simple_SD_drawing_app/blob/main/images/cat.png)https://github.com/Ryusei97/Simple_SD_drawing_app/blob/main/images/cat.png)
+![](https://github.com/Ryusei97/Simple_SD_drawing_app/blob/main/images/cat.png)https://github.com/Ryusei97/Simple_SD_drawing_app/blob/main/images/cat.png)
